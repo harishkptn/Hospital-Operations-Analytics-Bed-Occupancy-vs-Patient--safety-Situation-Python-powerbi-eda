@@ -81,6 +81,8 @@ The dataset includes monthly healthcare KPIs:
 ---
 
 ## 📊 Dashboard Insights
+![Dashboard](https://github.com/harishkptn/Hospital-Operations-Analytics-Bed-Occupancy-vs-Patient--safety-Situation-Python-powerbi-eda/blob/main/Dashboard.png)
+
 - KPI tracking (Occupancy, Falls, Responsiveness)  
 - Monthly trend analysis  
 - Benchmark comparisons  
@@ -98,15 +100,6 @@ The dataset includes monthly healthcare KPIs:
 
 ## 🧠 Conclusion
 This project demonstrates how healthcare data can be used to improve **patient safety and operational efficiency**.
-
----
-
-## ▶️ How to Run
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-Run the notebook step by step.
 
 ---
 
