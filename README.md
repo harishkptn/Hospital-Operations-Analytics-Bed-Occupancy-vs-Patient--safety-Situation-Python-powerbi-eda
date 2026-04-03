@@ -80,8 +80,10 @@ The dataset includes monthly healthcare KPIs:
 
 ---
 
-## 📊 Dashboard Insights
+## 📊 Dashboard
 ![Dashboard](https://github.com/harishkptn/Hospital-Operations-Analytics-Bed-Occupancy-vs-Patient--safety-Situation-Python-powerbi-eda/blob/main/Dashboard.png)
+
+## 📊 Dashboard Insights
 
 - KPI tracking (Occupancy, Falls, Responsiveness)  
 - Monthly trend analysis  
